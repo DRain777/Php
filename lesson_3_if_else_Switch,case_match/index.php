@@ -66,6 +66,16 @@ print $result3;
 
 print "<br>";
 
+
+$result4 = match(2) {
+    $a,$b,$c => "Значение 2",
+    default => "Что то другое",
+
+};
+print "<br>";
+print $result4;
+
+
 // if-else с альтернативным синтаксисом, добавлена согласованность в HTML-теги и отступы
 if ($a == 7) {
     print "hello world";
