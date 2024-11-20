@@ -24,6 +24,14 @@
 
     sum(7, 7);
 
+
+
+    function subtraction($a,$b,$c = 0,$d = 0){
+        print $a - $b;
+
+    };
+    subtraction(17,5);
+
     ?>
 
 </body>
