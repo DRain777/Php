@@ -30,7 +30,11 @@
         print $a - $b;
 
     };
+
+    $x = 100;
+    $y = 70;
     subtraction(17,5);
+    subtraction($x, $y);
 
     ?>
 
