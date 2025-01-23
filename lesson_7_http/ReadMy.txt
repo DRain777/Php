@@ -1,0 +1,3 @@
+// put заменяет все текущие представления ресурса данными запроса
+// http://localhost/P_H_P/lesson_7_http/form_select__.php
+// http-hyberTextTransferProtocol Протокол передачи гипер текста
